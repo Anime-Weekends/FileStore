@@ -16,7 +16,8 @@ async def cb_handler(client: Bot, query: CallbackQuery):
                 [
                     [
                     InlineKeyboardButton("⚡️ ᴄʟᴏsᴇ", callback_data = "close"),
-                    InlineKeyboardButton('🍁 ᴘʀᴇᴍɪᴜᴍ', url='https://t.me/OtakuFlix_Network/4639')
+                    InlineKeyboardButton('🍁 ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/Anime_Weekends')
+                    InlineKeyboardButton('🍁 ᴍᴀɴɢᴀ ᴄʜᴀɴɴᴇʟ', url='https://t.me/Manga_Weekends')
                     ]
                 ]
             )
